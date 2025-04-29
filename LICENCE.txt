@@ -1,0 +1,15 @@
+ARnews License
+
+Copyright (c) 2025 ARnews (arnews.xyz or associated platform)
+
+Permission is hereby granted to any person to use, share, modify, and distribute the content of this website for personal or public purposes, including on other platforms, subject to the following conditions:
+
+1. The original author’s name (“ARnews”) must be clearly mentioned in any copy or modified version.
+2. No one may claim the content, code, or any part of this project as their own original work.
+3. This content may not be used for illegal or harmful purposes.
+4. The original copyright and permission notice shall be included in all copies or substantial portions of the content.
+5. The content is provided "as is", without warranty of any kind, express or implied. The author holds no responsibility for any consequences arising from its use.
+
+Thank you for respecting the rights and intentions of ARnews.
+
+— ARnews Team
